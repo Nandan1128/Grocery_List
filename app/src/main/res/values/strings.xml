@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Grocery List</string>
+    <string name="add_item_hint">Add an item (e.g. Milk, Apples)…</string>
+    <string name="add_button_content_description">Add item to list</string>
+    <string name="delete_button_content_description">Remove item</string>
+    <string name="item_checkbox_content_description">Mark as bought or not bought</string>
+    <string name="empty_list_title">Your grocery list is empty</string>
+    <string name="empty_list_subtitle">Add items before leaving for the store!</string>
+    <string name="items_remaining">%1$d items remaining</string>
+    <string name="item_remaining_single">1 item remaining</string>
+    <string name="all_items_bought">All items bought! 🎉</string>
+    <string name="error_empty_item">Please enter an item name</string>
+    <string name="item_deleted">Item removed</string>
+    <string name="undo">Undo</string>
+    <string name="delete_all">Delete all items</string>
+    <string name="delete_all_confirmation_title">Delete all items?</string>
+    <string name="delete_all_confirmation_message">Are you sure you want to delete all items from your grocery list? This action cannot be undone.</string>
+    <string name="delete_all_confirm">Delete All</string>
+    <string name="cancel">Cancel</string>
+    <string name="all_items_deleted">All items deleted</string>
+</resources>

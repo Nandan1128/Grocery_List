@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand / Primary -->
+    <color name="primary">#1B5E20</color>
+    <color name="primary_variant">#003300</color>
+    <color name="primary_light">#E8F5E9</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Backgrounds & Surfaces -->
+    <color name="background">#F8F9FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F3F4</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Typography -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_strikethrough">#9E9E9E</color>
+
+    <!-- Actions & States -->
+    <color name="action_delete">#E53935</color>
+    <color name="action_check">#2E7D32</color>
+</resources>
